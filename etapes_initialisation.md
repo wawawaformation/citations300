@@ -8,7 +8,7 @@
 1. Mise en place de l'autoloader 
     Bien renseigner l'autoloader dans composer.jsoncomposer et actualiser la config
     ```bash
-    $: dump-autoload
+    $: composer dump-autoload
     ```
 
 1. Installation des paquets de dev var-dumper et phpunit
